@@ -321,7 +321,7 @@ width: 70rem;
 
 .suscribete form{
 display: flex;
-max-width: 70px;
+max-width: 70rem;
 border: .2rem solid whitesmoke;
 padding: .5 rem;
 border-radius: 5rem;
