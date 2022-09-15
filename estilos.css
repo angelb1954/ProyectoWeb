@@ -340,6 +340,8 @@ background: none;
 
 }
 
+
+
 .suscribete form input[type="email"]::placeholder{
 
 color: whitesmoke;
@@ -603,9 +605,21 @@ transition: .2s linear;
 .contactos form .inputcaja input:focus ~ label, .contactos form .inputcaja input:valid ~ label, .contactos form .inputcaja textarea:focus ~ label, .contactos form .inputcaja textarea:valid ~ label{
 top: -.5rem;
 font-size: 1.5rem;
-color: var(--limon);
+color: var(--degradado);
 
 }
+
+.contactos form .inputcaja .btn{
+width: 10rem;
+background: var(--limon);
+color: white;
+
+
+}
+
+
+
+
 
 .footer{
 
@@ -805,4 +819,3 @@ margin: 1rem 0;
  }
 
 
- 
