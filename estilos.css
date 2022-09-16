@@ -368,6 +368,11 @@ color:var(--limon);
 
 }
 
+.suscribete label{
+color: whitesmoke;
+font-size: 1.8rem;
+
+}
 
 .opiniones .caja-contenedor{
 
@@ -437,7 +442,13 @@ padding: 1rem;
 
 }
 
+.opiniones.button{
+padding: 2rem 3rem;
+border: .1rem solid green;
+box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
+border-radius: .5rem;
 
+}
 
 
 
@@ -820,3 +831,4 @@ margin: 1rem 0;
  }
 
 
+ }
